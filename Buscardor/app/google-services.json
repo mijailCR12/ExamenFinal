@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310636337116",
+    "project_id": "buscador-5c65e",
+    "storage_bucket": "buscador-5c65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310636337116:android:0630218fe6ef068ef72119",
+        "android_client_info": {
+          "package_name": "com.example.buscardor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310636337116-sdr5cem8pevb14h9e3okuhoduv5ul834.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4_-9PgxxgNMBbTCZQaMJ7CpWD1tR-EAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310636337116-sdr5cem8pevb14h9e3okuhoduv5ul834.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
